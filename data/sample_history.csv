@@ -1,0 +1,6 @@
+sample_id,timestamp,ph,hardness,tds,turbidity,conductivity,chloramines,sulfate,organic_carbon,trihalomethanes,prediction,confidence_pct,flags,followup
+JR-0001,2026-10-09 21:24:02,7.2,180.0,300.0,1.5,450.0,2.0,150.0,2.0,50.0,Acceptable,97.3,,No action required.
+JR-0002,2026-10-09T21:30:09,7.2,180.0,300.0,1.5,450.0,2.0,150.0,2.0,50.0,Acceptable,100.0,,"No parameters are outside reference ranges in this preliminary screening.  However, laboratory testing is still recommended to confirm water quality."
+JR-0003,2026-10-09T21:32:07,7.309999999999998,179.8900000000001,300.0,1.5,450.0,2.0,150.0,2.0,50.0,Acceptable,100.0,,"No parameters are outside reference ranges in this preliminary screening.  However, laboratory testing is still recommended to confirm water quality."
+JR-0004,2026-10-09T21:32:38,7.2,180.0,300.0,1.5,450.0,2.0,150.0,2.0,50.0,Acceptable,100.0,,"No parameters are outside reference ranges in this preliminary screening.  However, laboratory testing is still recommended to confirm water quality."
+JR-0005,2026-10-09T22:26:05,7.2,180.0,300.0,1.5,450.0,2.0,150.0,2.0,50.0,Acceptable,100.0,None,"No parameters are outside reference ranges in this preliminary screening.  However, laboratory testing is still recommended to confirm water quality."

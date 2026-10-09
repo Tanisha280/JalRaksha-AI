@@ -1,0 +1,1 @@
+# JalRakshak AI — utils package
